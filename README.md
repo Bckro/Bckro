@@ -1,6 +1,8 @@
 ## 学び続けることは力です。
 ### Continuous learning is power.
 
+##
+
 ![Nagłówek](https://raw.githubusercontent.com/Bckro/Bckro/main/Bckro-header.png)
 
 🔭 *Currently*, I'm working on various projects related to my computer science studies. I enjoy diving into different programming languages and exploring their application in real-world scenarios.
