@@ -1,4 +1,6 @@
-# 絶えず学び、絶えず進化しましょう。
+# 学び続けることは力です。
+## Manabi tsuzukeru koto wa chikara desu.
+### Continuous learning is power.
 
 ![Nagłówek](https://raw.githubusercontent.com/Bckro/Bckro/main/Bckro-header.png)
 
