@@ -1,4 +1,4 @@
-# Bckro
+# 絶えず学び、絶えず進化しましょう。
 
 ![Nagłówek](https://raw.githubusercontent.com/Bckro/Bckro/main/Bckro-header.png)
 
