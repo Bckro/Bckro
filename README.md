@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![Header](./Bckro-header.png)
+![Nagłówek](https://raw.githubusercontent.com/Bckro/Bckro/main/Bckro-header.png)
+
 
 
 <!--
