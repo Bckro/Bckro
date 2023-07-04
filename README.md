@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![Nagłówek](https://raw.githubusercontent.com/Bckro/Bckro/main/Bckro-header.png)
 
 
