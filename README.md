@@ -1,5 +1,4 @@
-## 学び続けることは力です。
-### Continuous learning is power.
+## 学び続けることは力です。- Continuous learning is power.
 
 ###
 
